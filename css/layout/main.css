@@ -1,0 +1,14 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css");
+@import url("./layout.css");
+@import url("../blocs/hello.css");
+@import url("../blocs/header.css");
+@import url("../blocs/factors.css");
+@import url("../blocs/btn.css");
+@import url("../blocs/section.css");
+@import url("../blocs/benefits.css");
+@import url("../blocs/benefit.css");
+@import url("../blocs/headline.css");
+body {
+  font-family: 'Alegreya Sans', sans-serif; }
+
+/*# sourceMappingURL=main.css.map */

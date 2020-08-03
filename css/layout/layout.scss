@@ -1,0 +1,82 @@
+//intention vareable 
+
+$containerwidth: 940px;
+//color
+$blue: #61C4D9;
+
+
+//main code
+html, body {
+  height: 100%;
+}
+
+body {
+  font-size: 18px;
+  line-height: 1.42;
+  position: relative;
+  
+}
+
+.wrapper {
+  position: relative;
+  width: 100%;
+  min-width: $containerwidth +20px;
+  overflow: hidden;
+}
+
+.container {
+  width: $containerwidth;
+  margin: 0 auto;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+}
+
+//tag reset for ul and li
+ul {
+  padding: 0;
+  margin: 0;
+  li {
+    list-style: none;
+  }
+}
+
+//tag reset h
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  font-weight: normal;
+}
+
+footer {
+  position: relative;
+  width: 100%;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+a {
+  color: inherit;
+}

@@ -1,0 +1,35 @@
+.header {
+  min-width: 942px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 84px; }
+
+.logo {
+  width: 60px; }
+
+.page-site__list {
+  display: flex;
+  align-items: center; }
+
+.page-site__item {
+  margin-right: 15px;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 30px; }
+  .page-site__item:last-child {
+    margin-right: 0; }
+
+.contacts {
+  display: flex;
+  align-items: center; }
+
+.contacts__tel {
+  text-decoration: none; }
+
+.contacts__icon-pic {
+  width: 14px;
+  height: 14px;
+  margin-right: 4px; }
+
+/*# sourceMappingURL=header.css.map */
